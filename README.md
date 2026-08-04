@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 I'm Minh Khang
+# 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4EA6FF&center=true&vCenter=true&width=700&lines=I'm+Minh+Khang;Mobile+Reverse+Engineering;Objective-C+Developer;Welcome+To+My+GitHub)](https://git.io/typing-svg)
 
