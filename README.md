@@ -2,7 +2,7 @@
 
 # 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4EA6FF&center=true&vCenter=true&width=700&lines=I'm+Minh+Khang;Mobile+Reverse+Engineering;Objective-C+Developer;Welcome+To+My+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1200&color=3FA9F5&center=true&vCenter=true&width=800&lines=Welcome+To+My+GitHub;I'm+Minh+Khang;Mobile+Reverse+Engineering&repeat=true)](https://git.io/typing-svg)
 
 <br>
 
